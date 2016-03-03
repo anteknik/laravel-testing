@@ -12,3 +12,4 @@ Thumbs.db
 !build/phpunit.xml
 !build/phpdox.xml
 build/*
+
